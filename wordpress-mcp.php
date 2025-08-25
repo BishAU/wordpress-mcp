@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin name:       WordPress MCP
+ * Plugin name:       WordPress MCP (DISABLED)
  * Description:       A plugin to integrate WordPress with Model Context Protocol (MCP), providing AI-accessible interfaces to WordPress data and functionality through standardized tools, resources, and prompts. Enables AI assistants to interact with posts, users, site settings, and WooCommerce data.
  * Version:           0.2.5
  * Requires at least: 6.4
@@ -14,6 +14,9 @@
  *
  * @package WordPress MCP
  */
+
+// DISABLED - This plugin conflicts with Victorian Flying Sites
+return;
 
 declare(strict_types=1);
 
